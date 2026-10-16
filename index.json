@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "atualizado_em": "2026-10-16T12:20:39",
+ "atualizado_em": "2026-10-16T12:59:33",
  "url_base": "https://jappabr.github.io/mapa-postes/",
  "gerador": "puxar_pontos 3.0.0",
  "cidades": [
@@ -159,6 +159,18 @@
    "percentual_led": 76.5,
    "atualizado_em": "2026-10-15T16:15:13",
    "hash": "4f627c26cd3148db"
+  },
+  {
+   "id": "nova-odessa",
+   "nome": "Nova Odessa",
+   "municipioId": 2575,
+   "arquivo": "cidades/nova-odessa.json",
+   "total": 11408,
+   "led": 11059,
+   "pendentes": 349,
+   "percentual_led": 96.9,
+   "atualizado_em": "2026-10-16T12:59:33",
+   "hash": "80c693d422c5c9d6"
   },
   {
    "id": "palotina",
