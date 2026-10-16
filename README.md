@@ -45,6 +45,7 @@ pontos: [[lng, lat, plaqueta, indice_do_tipo, quantidade (so se > 1)], ...]
 | Guararema | 9.608 | 4.321 | 45,0% | 2026-10-15 15:39:17 | [guararema.json](https://jappabr.github.io/mapa-postes/cidades/guararema.json) |
 | Inácio Martins | 965 | 883 | 91,5% | 2026-10-15 15:29:06 | [inacio-martins.json](https://jappabr.github.io/mapa-postes/cidades/inacio-martins.json) |
 | Irati | 10.663 | 9.618 | 90,2% | 2026-10-15 15:32:08 | [irati.json](https://jappabr.github.io/mapa-postes/cidades/irati.json) |
+| Itapecerica da Serra | 20.552 | 19.718 | 95,9% | 2026-10-16 12:20:39 | [itapecerica-da-serra.json](https://jappabr.github.io/mapa-postes/cidades/itapecerica-da-serra.json) |
 | Jandira | 8.326 | 3.097 | 37,2% | 2026-10-15 16:06:05 | [jandira.json](https://jappabr.github.io/mapa-postes/cidades/jandira.json) |
 | Laranjeiras | 2.715 | 2.583 | 95,1% | 2026-10-15 16:13:50 | [laranjeiras.json](https://jappabr.github.io/mapa-postes/cidades/laranjeiras.json) |
 | Mallet | 2.177 | 1.665 | 76,5% | 2026-10-15 16:15:13 | [mallet.json](https://jappabr.github.io/mapa-postes/cidades/mallet.json) |

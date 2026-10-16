@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "atualizado_em": "2026-10-16T11:55:08",
+ "atualizado_em": "2026-10-16T12:20:39",
  "url_base": "https://jappabr.github.io/mapa-postes/",
  "gerador": "puxar_pontos 3.0.0",
  "cidades": [
@@ -111,6 +111,18 @@
    "percentual_led": 90.2,
    "atualizado_em": "2026-10-15T15:32:08",
    "hash": "0005b7d3f77d69a3"
+  },
+  {
+   "id": "itapecerica-da-serra",
+   "nome": "Itapecerica da Serra",
+   "municipioId": 2667,
+   "arquivo": "cidades/itapecerica-da-serra.json",
+   "total": 20552,
+   "led": 19718,
+   "pendentes": 834,
+   "percentual_led": 95.9,
+   "atualizado_em": "2026-10-16T12:20:39",
+   "hash": "84318fb45b6196a6"
   },
   {
    "id": "jandira",
