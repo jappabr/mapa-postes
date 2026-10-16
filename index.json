@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "atualizado_em": "2026-10-16T08:21:12",
+ "atualizado_em": "2026-10-16T11:55:08",
  "url_base": "https://jappabr.github.io/mapa-postes/",
  "gerador": "puxar_pontos 3.0.0",
  "cidades": [
@@ -159,6 +159,18 @@
    "percentual_led": 94.2,
    "atualizado_em": "2026-10-15T16:22:31",
    "hash": "69a3b77170210915"
+  },
+  {
+   "id": "piraquara",
+   "nome": "Piraquara",
+   "municipioId": 2025,
+   "arquivo": "cidades/piraquara.json",
+   "total": 13085,
+   "led": 12594,
+   "pendentes": 491,
+   "percentual_led": 96.2,
+   "atualizado_em": "2026-10-16T11:55:08",
+   "hash": "30b651fb4c46dde4"
   },
   {
    "id": "reboucas",

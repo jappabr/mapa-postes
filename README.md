@@ -49,6 +49,7 @@ pontos: [[lng, lat, plaqueta, indice_do_tipo, quantidade (so se > 1)], ...]
 | Laranjeiras | 2.715 | 2.583 | 95,1% | 2026-10-15 16:13:50 | [laranjeiras.json](https://jappabr.github.io/mapa-postes/cidades/laranjeiras.json) |
 | Mallet | 2.177 | 1.665 | 76,5% | 2026-10-15 16:15:13 | [mallet.json](https://jappabr.github.io/mapa-postes/cidades/mallet.json) |
 | Palotina | 6.959 | 6.557 | 94,2% | 2026-10-15 16:22:31 | [palotina.json](https://jappabr.github.io/mapa-postes/cidades/palotina.json) |
+| Piraquara | 13.085 | 12.594 | 96,2% | 2026-10-16 11:55:08 | [piraquara.json](https://jappabr.github.io/mapa-postes/cidades/piraquara.json) |
 | Rebouças | 1.666 | 1.615 | 96,9% | 2026-10-15 16:22:51 | [reboucas.json](https://jappabr.github.io/mapa-postes/cidades/reboucas.json) |
 | Registro | 8.965 | 8.331 | 92,9% | 2026-10-15 16:09:35 | [registro.json](https://jappabr.github.io/mapa-postes/cidades/registro.json) |
 | Sapucaia do Sul | 12.786 | 11.907 | 93,1% | 2026-10-15 16:26:17 | [sapucaia-do-sul.json](https://jappabr.github.io/mapa-postes/cidades/sapucaia-do-sul.json) |
